@@ -1,0 +1,31 @@
+Menu {
+  background-color: antiquewhite;
+}
+
+body {
+  text-align: center;
+}
+
+
+.movieContainer {
+  background-color: rgb(85, 19, 161);
+}
+
+li {
+  list-style-type: none;
+  text-align: center;
+}
+
+img {
+  height: 300px;
+  width: 200px;
+}
+
+div.container {
+  width: fit-content;
+}
+
+div {
+  text-align: center;
+  background-color: azure;
+}
